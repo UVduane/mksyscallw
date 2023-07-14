@@ -1,3 +1,3 @@
-module github.com/uvcyber/mksyscallw
+module github.com/uvcyber/mkwinsyscallw
 
 go 1.20
